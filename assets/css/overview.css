@@ -1,0 +1,86 @@
+:root{
+    padding-left: 10px;
+}
+
+#bucket-header {
+    max-width: 25rem;
+}
+
+#bucket-title {
+    max-width: 25rem;
+}
+
+#bucket-progress {
+    margin: 5px 0px 5px 0px;
+    max-width: 25rem;
+}
+
+#bucket-progress h4 {
+    margin: 3px;
+}
+
+#bucket-progress-bar {
+    max-width: 16rem;
+    margin: 1em 0px 1em 0px;
+}
+
+#bucket-progress-fill {
+    width: 75%;
+    max-width: 16rem;
+}
+
+#participants {
+    max-width: 25rem;
+    margin: 0;
+}
+
+#participants > .row {
+    margin: 5px 0px 5px 0px;
+}
+
+#participant-steffen,
+#participant-john {
+    margin-bottom: 5px;
+}
+
+#participants-list span {
+    max-height: 20px;
+}
+
+#transactions {
+    margin: 5px 0px 0px 0px;
+    max-width: 25rem;
+}
+
+#transactions > .row {
+    margin: 5px 0px 5px 0px;
+}
+
+#transactions-list .col-3 {
+    padding: 0;
+}
+
+#transactions-list .col p {
+    text-align: end;
+    margin: 0px;
+}
+
+#load-more-container {
+    margin: 0;
+    padding: 0;
+}
+
+#load-more-btn {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#new-transaction-container {
+    padding: 10px 0px 0px 0px;
+    margin: 0;
+}
+
+#new-transaction-btn {
+    width: 25rem;
+    margin: 0;
+}
