@@ -1,18 +1,10 @@
 :root{
     padding-left: 10px;
-}
-
-#bucket-header {
-    max-width: 25rem;
-}
-
-#bucket-title {
-    max-width: 25rem;
+    padding-right: 10px;
 }
 
 #bucket-progress {
     margin: 5px 0px 5px 0px;
-    max-width: 25rem;
 }
 
 #bucket-progress h4 {
@@ -20,17 +12,14 @@
 }
 
 #bucket-progress-bar {
-    max-width: 16rem;
     margin: 1em 0px 1em 0px;
 }
 
 #bucket-progress-fill {
     width: 75%;
-    max-width: 16rem;
 }
 
 #participants {
-    max-width: 25rem;
     margin: 0;
 }
 
@@ -49,7 +38,6 @@
 
 #transactions {
     margin: 5px 0px 0px 0px;
-    max-width: 25rem;
 }
 
 #transactions > .row {
@@ -81,6 +69,6 @@
 }
 
 #new-transaction-btn {
-    width: 25rem;
+    width: 100%;
     margin: 0;
 }
