@@ -1,6 +1,6 @@
 # Angela Pantigozo
 ## 1. My Assigned Work
-I built the profile page for the webiste we are creating. 
+I built the profile page for the webiste we are creating. Along with the profile that I built that can be found in the profile.html file I also created a friends.html file. 
 
 ## 2. Bootstrap Implementation
 *Briefly explain the standard components you used for your assigned areas. [cite_start]Did you stick to the plan from Table 1?*
