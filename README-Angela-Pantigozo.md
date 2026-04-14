@@ -1,19 +1,16 @@
 # Angela Pantigozo
 ## 1. My Assigned Work
-I built the profile page for the webiste we are creating. Along with the profile that I built that can be found in the profile.html file I also created a friends.html file. 
+I built the profile page for the webiste we are creating. Along with the profile that I built that can be found in the profile.html file I also created a friends.html file. The profile.html page shows a brief overview of the buckets that user is contributing to with the option to click into the dahsboard which shows the bucket information in greater detail. The profile page also shows the amount of friends that the user has and provides a list of friends. 
 
 ## 2. Bootstrap Implementation
-*Briefly explain the standard components you used for your assigned areas. [cite_start]Did you stick to the plan from Table 1?*
-* **Components Used:** *(e.g., Bootstrap Navbar, Cards, Form Controls, Tables)*
+I used buttons, an image for the profile picture, Bootstrap collapse component for the information of the budget bucket and cards to show the budget details.  
 
 ## 3. Technical Challenges & Solutions
-[cite_start]*Look back at Table 4: Technical Risks. Did you build any of those risky components? How did you solve the challenge? If you didn't face those specific risks, what was the hardest part of your assigned work?*
+It wasn't difficult but the only thing that took me a little bit to figure out was when I was implementing the collapse component all 3 buckets would collapse at once. I fixed it by changing the data-bs-target to #Bucket1 and making the ID for the first bucket match. 
 
 ## 4. AI / LLM Usage
-*Did you use an AI tool to help write or debug your code?*
-* **What I asked the AI:** *(e.g., "How do I make a sticky footer in Bootstrap 5?")*
-* **How it helped & What I learned:** *(Explain the solution it provided and how you ensured you understood the code).*
+I used AI to help me figure out the collapse component. I asked "Why is the collapse component collapsing for all buckets?". This helped me resolve the issue. 
 
 ## 5. Live Site Link
 *Provide the GitHub Pages link to the specific page(s) you built.*
-* **Live URL:** [Insert Link Here]
+* **Live URL:** *** 
